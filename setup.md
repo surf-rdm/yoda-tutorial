@@ -1,54 +1,21 @@
 ---
 title: Setup
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
-
-## Data Sets
-
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
 
 ## Software Setup
 
-::::::::::::::::::::::::::::::::::::::: discussion
-
+::: discussion
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
-
-
-:::::::::::::::: solution
-
-### Linux
-
-Use Terminal
-
-:::::::::::::::::::::::::
-
+No specific software is needed to follow this tutorial. You do need
+access to a Yoda instance, where you can log into the web portal. For
+training hosted by SURF, the portal address is
+[https://surf-yoda.irods.surfsara.nl](https://surf-yoda.irods.surfsara.nl){target="_blank"}.
+For the addresses of institute-specific portals, see [this overview of
+URL's](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting#YodaHosting-YodaHosting){target="_blank"}.
+Before you can login, course instructors should give you access to the
+portal.
+:::
