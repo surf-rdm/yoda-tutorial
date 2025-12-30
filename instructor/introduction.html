@@ -217,6 +217,7 @@
     <div id="flush-collapsecurrent" class="accordion-collapse collapse show" aria-labelledby="flush-headingcurrent" data-bs-parent="#accordionFlushcurrent">
       <div class="accordion-body">
         <ul><li><a href="#about-yoda">About Yoda</a></li>
+<li><a href="#research-data-management-best-practices">Research data management best practices</a></li>
         </ul></div><!--/div.accordion-body-->
     </div><!--/div.accordion-collapse-->
 
@@ -348,6 +349,7 @@
 <div class="inner">
 <h3 class="card-title">Questions</h3>
 <ul><li>What is Yoda?</li>
+<li>What are best practices for research data management (RDM)?</li>
 </ul></div>
 </div>
 </div>
@@ -364,29 +366,48 @@ dataset</li>
 </div>
 <section><h2 class="section-heading" id="about-yoda">About Yoda<a class="anchor" aria-label="anchor" href="#about-yoda"></a></h2>
 <hr class="half-width"><figure><img src="../fig/yoda-logo.svg" width="500" alt="Yoda logo" class="figure mx-auto d-block"><div class="figcaption">Yoda logo</div>
-</figure><p><a href="https://utrechtuniversity.github.io/yoda/" target="_blank" class="external-link">Yoda</a> is a piece of software that runs on top of <a href="https://irods.org/" target="_blank" class="external-link">iRODS</a>, and it facilitates
-certain research data management (RDM) flows. The typical situation that
-you may encounter is that an IT department will offer a Yoda instance
-for your institution, which you can access through Yoda’s web
-interface.</p>
+</figure><p><a href="https://utrechtuniversity.github.io/yoda/" target="_blank" class="external-link">Yoda</a> is a piece of open source software that runs on
+top of <a href="https://irods.org/" target="_blank" class="external-link">iRODS</a>, and it
+facilitates certain research data management (RDM) flows. The typical
+situation that you may encounter is that an IT department will offer a
+Yoda instance for your institution, which you can access through Yoda’s
+web interface.</p>
 <p>As a brief summary of Yoda’s concepts, Yoda allows multiple users to
 cooperate for data management in so-called <em>groups</em>. A
 <strong>dataset</strong> consists of files brought together within a
 <strong>folder</strong>. It is at this folder level that you attach the
-<strong>metadata</strong> that belongs to that dataset.</p>
-<p>In terms of best RDM practices, that metadata belongs to the dataset;
-it is an intrinsic part of it. Metadata consists of information pieces
-that accompany the data itself, in order not only to describe the data
-but also to allow finding it back by means of searching through those
-bits of information. The main idea behind this cooperating around data
-is that researchers can gather data and share it with others, each
-working at their own pace. Thus, years after the dataset has been put
-together, somebody else (or the future self of the original researcher)
-can find the data and reuse it, possibly, in novel research
-projects.</p>
-<p>Yoda facilitates all this interaction through its web portal. In the
-following sections we will be showcasing and exercising these flows, at
-times as though you were a researcher and data steward.</p>
+<strong>metadata</strong> that belongs to that dataset. Once the dataset
+is ready for long-term storage, Yoda allows you to save a frozen version
+(snapshot) in the <strong>Vault</strong> area.</p>
+</section><section><h2 class="section-heading" id="research-data-management-best-practices">Research data management best practices<a class="anchor" aria-label="anchor" href="#research-data-management-best-practices"></a></h2>
+<hr class="half-width"><p>In terms of best RDM practices, metadata is of key importance. What
+is metadata and why is it so important?</p>
+<p>A common definition of metadata is that these are “data about data”.
+A more precise definition is that metadata are structured data that
+deliberately describe characteristics of other data<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Metadata consists of
+information pieces that accompany the data itself, in order not only to
+describe the data but also to allow finding it back by means of
+searching through those bits of information. In that way, metadata is
+essential for finding data (back) and understanding it, and thus for
+scientific discovery and progress.</p>
+<p>Researchers can gather data, add metadata, and then share it with
+others. Thus, years after the dataset has been put together, somebody
+else (or the future self of the original researcher) can find the data
+and reuse it, possibly, in novel research projects. According to RDM
+best practices, the metadata belongs to the dataset; it is an intrinsic
+part of it. Metadata is also essential for making data <a href="https://www.go-fair.org/fair-principles/" class="external-link">FAIR</a>: good,
+machine-readable metadata helps to make datasets findable, accessible,
+interoperable and reusable.</p>
+<p>To facilitate RDM best practices, <strong>Yoda facilitates the
+addition of machine-readable metadata to datasets</strong> through its
+web portal. Another RDM best practice facilitated by Yoda is the option
+to preserve a dataset by <strong>creating a secure and immutable
+copy</strong> of research data and the associated metadata in the Vault
+area. That version is then archived and cannot be changed anymore. To
+continue working, you can make a copy of it back to the research area in
+order to manipulate the copied data.</p>
+<p>In the following tutorial we will be showcasing and exercising these
+flows, at times as though you were a researcher and data steward.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -405,7 +426,16 @@ portal</li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</section></div> <!-- / div.lesson-content -->
+</section><div class="footnotes footnotes-end-of-document">
+<hr><ol><li id="fn1"><p>One can also distinguish different types of metadata
+such as descriptive, administrative, or structural metadata. In case you
+want to learn more about metadata, you can read this <a href="https://www.niso.org/publications/understanding-metadata-2017" target="_blank" class="external-link">Metadata primer</a> by Riley (2017) or follow the lesson
+<a href="https://carpentries-incubator.github.io/scientific-metadata/" target="_blank" class="external-link">Fundamentals of Scientific Metadata</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol></div>
+
+
+
+      </div> <!-- / div.lesson-content -->
     </main><!-- / main#main-content.main-content --><nav class="bottom-pagination mx-md-4" aria-label="Previous and Next Chapter"><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link" href="../instructor/index.html"><i aria-hidden="true" class="small-arrow" data-feather="arrow-left"></i>Previous</a>
         <a class="chapter-link float-end" href="../instructor/connecting.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
