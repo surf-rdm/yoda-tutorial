@@ -37,10 +37,12 @@ Let us enter the Yoda web portal now.
     ![Example of how the Yoda portal looks like once logged
     in](fig/yoda-portal.png){width="584"}
 
-3.  Click on the Research tab Verify that you see two folders:
+3.  Click on the Research tab. Verify that you see two folders:
     `research-tutorial-unsup` and `research-tutorial-sup`.
     These two folders will represent two different groups that you will
-    be working in
+    be working in. You have access to these groups and the Yoda portal because
+    you were added as a member. You can only log in to Yoda when you are added 
+    to a specific group in Yoda.
 
 4.  Try to remember that we will start working in the unsupervised
     group, and only in the last exercise we will move to the other one.
@@ -52,6 +54,6 @@ group and provide a link to the correct portal address.
 
 ::: keypoints
 -   Use your institutional email address to enter the portal
--   You can only log in to Yoda when you are added to a specific Group
+-   You can only log in to Yoda when you are added to a specific group
     in Yoda
 :::

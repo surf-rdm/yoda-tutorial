@@ -28,13 +28,14 @@ own courses.
 ::: objectives
 After completion of this tutorial, you will be able to:
 
--   Explain the components of a publication package
--   Apply best practices to document, organize, share, and archive your
-    research data
--   Produce a publication package for your own research project
--   Determine which parts of the package need to be published and which
-    parts need to be archived internally
--   Find available information and support for completing a publication
-    package
+-   Explain the importance of metadata and its relation to the dataset
+-   Demonstrate how to search for datasets in Yoda
+-   Explain the difference between the Research area and the Vault area in Yoda
+-   Demonstrate how to include useful metadata in Yoda
+-   Show how to upload data in Yoda
+-   Operate the cycle of securing, retrieving, and updating data independently in Yoda
+-   Operate the cycle of securing data supervised by a data steward in Yoda
+-   Demonstrate how to check metadata and approve submissions to Yoda Vault
+
 :::
 
