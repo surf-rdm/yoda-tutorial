@@ -1,7 +1,7 @@
 ---
 title: 'Finding and reusing existing data'
-teaching: 10
-exercises: 2
+teaching: 30
+exercises: 5
 editor_options: 
   markdown: 
     wrap: 72
@@ -24,9 +24,10 @@ As an instructor, make sure you prepare a folder with a picture of the
 dress. It should be in the Vault area and workshop participants should
 have access to it. Also make sure that the words "Mondrian" or "Yves"
 are present in the metadata, but not in the file or folder names. You
-can use the folder published on GitHub to prepare the folder in Yoda.
-Make sure the dataset is in the Vault and removed from the Research 
-area in Yoda.
+can use the folder [published on
+GitHub](https://github.com/surf-rdm/yoda-tutorial/tree/main/instructors/data)
+to prepare the folder in Yoda. Make sure the dataset is in the Vault and
+removed from the Research area in Yoda.
 :::
 
 ## Introduction
@@ -115,7 +116,6 @@ in need for a dataset that you know exists in this Yoda instance. The
 information you have is little: it involves a picture of a famous
 Mondrian dress by Yves Saint Laurent. That is precisely what you need
 for your research! Let us find it now.
-
 
 :::::: challenge
 ## Challenge 1: search by filename

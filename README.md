@@ -1,10 +1,10 @@
 # Yoda hands-on tutorial
 
-This is the lesson repository for the [Yoda](https://www.uu.nl/en/research/yoda/guide-to-yoda){target="_blank"} hands-on tutorial. This tutorial is meant to explain and experience the typical workflows for handling data and metadata in Yoda. It can be taught to researchers and data stewards new to Yoda. Access to a Yoda instance is needed for the hands-on exercises.
+This is the lesson repository for the [Yoda](https://www.uu.nl/en/research/yoda/guide-to-yoda) hands-on tutorial. This tutorial is meant to explain and experience the typical workflows for handling data and metadata in Yoda. It can be taught to researchers and data stewards new to Yoda. Access to a Yoda instance is needed for the hands-on exercises.
 
 ## Maintainers
 
-This tutorial is developed by the SURF Data Management Services team that [hosts several Yoda instances](https://www.surf.nl/en/services/storage-data-management/yoda-hosting){target="_blank"} in the Netherlands. It is currently maintained by [Eduard Klapwijk](https://orcid.org/0000-0002-8936-0365).
+This tutorial is developed by the SURF Data Management Services team that [hosts several Yoda instances](https://www.surf.nl/en/services/storage-data-management/yoda-hosting) in the Netherlands. It is currently maintained by [Eduard Klapwijk](https://orcid.org/0000-0002-8936-0365).
 
 ## How to use this tutorial
 
@@ -18,7 +18,7 @@ For instructors who want to teach the tutorial, you can change the default Learn
 
     2.  Another group called `research-tutorial-sup` for the supervised workflow in a separate Yoda category. Invite workshop participants to this group as well, but do **not** add them to the `datamanager-` group in this category. You can add participants acting as a data steward temporarily to the `datamanager-` group during the workshop.
 
--   Prepare a folder with a picture of the dress. It should be in the Vault area and workshop participants should have access to it. Also make sure that the words “Mondrian” or “Yves” are present in the metadata, but not in the file or folder names. You can use the [folder published on GitHub](https://github.com/surf-rdm/yoda-tutorial/tree/main/instructors) to prepare the folder in Yoda. Make sure the dataset is in the Vault and removed from the Research area in Yoda.
+-   Prepare a folder with a picture of the dress. It should be in the Vault area and workshop participants should have access to it. Also make sure that the words “Mondrian” or “Yves” are present in the metadata, but not in the file or folder names. You can use the [folder published on GitHub](https://github.com/surf-rdm/yoda-tutorial/tree/main/instructors/data) to prepare the folder in Yoda. Make sure the dataset is in the Vault and removed from the Research area in Yoda.
 
 ## License
 
