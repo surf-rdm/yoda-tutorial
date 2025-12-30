@@ -159,12 +159,12 @@ within this Yoda instance!
 
 ## Submitting the dataset to the Vault
 
-Now that you have a dataset which includes its metadata and the data
-itself, you can initiate the flow that will place the frozen version of
-the dataset in the Vault. This is going to be an unsupervised process
-during this exercise, simulating a situation where you are an expert
-data practitioner. This means that, you are yourself in charge of not
-only submitting but also accepting the dataset in the Vault.
+Now that you have a dataset which includes data and metadata, you can
+initiate the flow that will place the frozen version of the dataset in
+the Vault. This is going to be an unsupervised process during this
+exercise, simulating a situation where you are an expert data
+practitioner. This means that you are yourself in charge of not only
+submitting, but also accepting the dataset in the Vault.
 
 1.  In the Yoda interface, navigate to the `research-tutorial-unsup`
     folder, then your Project folder, and then to the dataset folder
@@ -217,21 +217,21 @@ it first.
     delete the folder.
 
 Done! The working copy of the dataset is now history. Long live the
-dataset in the Vault!
+preserved dataset in the Vault!
 
 ## Recovering the dataset from the vault
 
 Now we are going to pretend that a year has passed since you last worked
 with your dataset. In the meantime you have decided you want to add a
 new file describing something related to the procedure, to the dataset
-(e.g, a README file). In your view, this is simply a version upgrade, so
-we should reuse the same original dataset. For that, you will need to
+(e.g., a README file). In your view, this is simply a version upgrade,
+so we should reuse the same original dataset. For that, you will need to
 make a working copy out of the version that you had stored in the Vault
 a year ago.
 
 Bring now a copy of the dataset from the Vault to your Project folder,
 following the same steps you applied during the [previous
-exercise](..episodes/finding-reusing.Rmd#importing). You can locate your
+exercise](episodes/finding-reusing.Rmd#importing). You can locate your
 dataset by searching for it, or by navigating to the Vault tab, then the
 `vault-tutorial-unsup` folder, and scrolling through the datasets that
 may be there.
@@ -280,7 +280,7 @@ to secure datasets in the Vault.
 ::: callout
 You must have realised by now that proper metadata management is key,
 but also very difficult to do properly. Yoda simplifies this effort a
-bit by allowing only metadata to be added to folders.
+bit by allowing metadata to be added to folders only.
 
 -   Question: Can you think of situations where this approach will feel
     like a limitation, instead of a blessing? How would you tackle
@@ -310,6 +310,6 @@ useful for?
 -   You can add metadata to your project in the Research area
 -   You can submit a dataset to the Vault to secure a frozen version of
     your dataset
--   Copy a datapackage from Vault to Research space to continue working
-    with it
+-   You can copy a datapackage from Vault to Research space to continue
+    working with it
 :::
