@@ -19,6 +19,16 @@ editor_options:
     **Vault** area in Yoda
 :::
 
+::: instructor
+As an instructor, make sure you prepare a folder with a picture of the
+dress. It should be in the Vault area and workshop participants should
+have access to it. Also make sure that the words "Mondrian" or "Yves"
+are present in the metadata, but not in the file or folder names. You
+can use the folder published here (link to follow) to prepare the
+folder. Make sure the dataset is in the Vault and removed from the
+Research area in Yoda.
+:::
+
 ## Introduction
 
 In this scenario we are going to pretend that you are a researcher who
@@ -57,9 +67,9 @@ two tabs; namely: Research and Vault.
 tabs](fig/research-vault.png){width="270"}
 
 We will now pretend that you are working in a project of your own. You
-will therefore need to create a folder for that project. Since you
-ultimately want to actively be working with a dataset for this exercise,
-you will be creating now that folder in the Research area.
+will therefore need to create a folder for that project. Since you want
+to work actively with a dataset for this exercise, you will now create
+that folder in the Research area.
 
 Here are the steps you need to follow:
 
@@ -77,11 +87,11 @@ Here are the steps you need to follow:
     like: "Project Peter" or "Project Flamingos". Please, remember what
     you choose, because the rest of the course attendants will be
     creating their own folders here too, so you may see a different list
-    every time to look.
+    every time you look.
 
 You are now set to go! This project folder will be the place where you
-will import the dataset that you are now going to search for during the
-rest of this section.
+will import the dataset that you are going to search for in the
+following section.
 
 ## Searching for a dataset in the Vault
 
@@ -102,17 +112,10 @@ it offers include:
 
 As explained at the beginning, you are pretending now to be a researcher
 in need for a dataset that you know exists in this Yoda instance. The
-information you have is little: it involves a picture taken at the Gulf
-of Biscay. That is precisely what you need for your research! Let us
-find it now.
+information you have is little: it involves a picture of a famous
+Mondrian dress by Yves Saint Laurent. That is precisely what you need
+for your research! Let us find it now.
 
-::: instructor
-As an instructor, make sure you prepare a folder with a picture from the
-Gulf of Biscay. It should be in the Vault area and workshop participants
-should have access to it. Also make sure that the words "Biscay" or
-"Atlantic" are present in the metadata, but not in the file or folder
-names.
-:::
 
 :::::: challenge
 ## Challenge 1: search by filename
@@ -123,8 +126,8 @@ Can you find the file?
 box at the top
 
 2\. Type in the search box a word or words that you think are reasonable
-for the little information you have about the dataset, such as: "ocean"
-or "Biscay" or "Atlantic"
+for the little information you have about the dataset, such as: "dress"
+or "Mondrian" or "Yves"
 
 3\. Hit "Enter" or click on the magnifying glass button to the right of
 the search box
@@ -147,8 +150,8 @@ Can you find the folder?
 "Search by folder".
 
 2\. Type in the search box a word or words that you think are reasonable
-for the little information you have about the dataset, such as: "ocean"
-or "Biscay" or "Atlantic"
+for the little information you have about the dataset, such as: "dress"
+or "Mondrian" or "Yves"
 
 3\. Hit "Enter" or click on the magnifying glass button to the right of
 the search box
@@ -165,8 +168,8 @@ Can you find the metadata?
 1\. To the left of the search box, choose now "Search by metadata".
 
 2\. Type in the search box a word or words that you think are reasonable
-for the little information you have about the dataset, such as: "ocean"
-or "Biscay" or "Atlantic"
+for the little information you have about the dataset, such as: "dress"
+or "Mondrian" or "Yves"
 
 3\. Hit "Enter" or click on the magnifying glass button to the right of
 the search box
@@ -216,9 +219,9 @@ searched by metadata?
 
 -   When was the picture taken?
 
--   Who took the picture? What is their affiliation?
+-   Who took the picture?
 
--   Which three location tags have been given to the picture?
+-   Which location tag has been given to the picture?
 
 -   What does the picture show (i.e.: can you describe what the
     photograph has captured)?
@@ -263,25 +266,24 @@ at the picture!
 4.  Click on the new folder name. You will see it has another folder
     within it called `original`, and there is a
     `yoda-metadata[epoch].json` file there as well. If you click the
-    Metadata button, it will be empty. How come!? Well, look in the
-    `original` folder instead. Click, therefore, on the `original`
-    folder.
+    Metadata button, it will be empty. How come!?
 
-5.  You should now see a picture file and a `yoda-metadata.json` file as
-    well.
+5.  Well, look in the `original` folder instead. Click, therefore, on
+    the `original` folder. You should see a picture file and a
+    `yoda-metadata.json` file as well.
 
 6.  Click on the Metadata button now that you are in the original
-    folder. You should now see a lot of metadata fields, and you can
-    even modify them! This metadata should be the same you saw before
-    you imported the dataset into your working area.
+    folder. You should see a lot of metadata fields, and you can even
+    modify them! This metadata should be the same you saw before you
+    imported the dataset into your working area.
 
 7.  You can click on the "Close" button of the form to go back to the
     list of files.
 
-8.  In order to simulate using the data, you can now click on the three
-    dots to the right of the picture, and select View. That will display
-    the picture in a pop-up. Alternatively, you can click on Download to
-    simulate that you save a dataset onto your laptop's hard drive.
+8.  In order to simulate using the data, you can now click on the name
+    of the picture file. That will display the picture in a pop-up.
+    Alternatively, you can click on Download to simulate that you save a
+    dataset onto your laptop's hard drive.
 
 9.  Lastly, click on the `yoda-metadata.json` file, which will preview
     the .json file in your browser. You can also open this .json file on
@@ -289,13 +291,12 @@ at the picture!
     the information there? Exactly! It is the same metadata as you see
     when you click on the Metadata button of the folder. Handy, right?
     This way you will always have the metadata along with the data, in a
-    machine-workable format!
+    machine-readable format!
 
 You have now completed this section. Feel free to move on to the next
 exercise at your own pace, but make sure you have answered the questions
-in the [challenge
-above](../episodes/finding-reusing.Rmd#metadata-questions) to verify
-that you have found the intended dataset.
+in the [challenge above](../episodes/finding-reusing.Rmd#questions) to
+verify that you have found the intended dataset.
 
 ::: keypoints
 -   You can create folders and upload files in the Research area

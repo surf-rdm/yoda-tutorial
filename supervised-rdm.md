@@ -17,7 +17,7 @@ exercises: 2
 
 In this scenario we are going to recreate the same steps as in the [previous exercise](../episodes/unsupervised-rdm.Rmd), but you will be working in a group that requires that a data steward approves your dataset before it is allowed to reach the Vault. You will get the chance to be the researcher, but also the **data steward**.
 
-You will also know how to the **interaction** between a researcher and a **data steward** can lead to a dataset being placed in Yoda's Vault.
+At the end of the exercise you will know how the **interaction** between a researcher and a **data steward** can lead to a dataset being placed in Yoda's Vault.
 
 ## Preparing another working place in the Research space
 
@@ -25,13 +25,13 @@ Follow the steps from previous two scenarios to create a new Project folder and 
 
 ## Filling the metadata and uploading data
 
-Follow the steps from the previous scenario to [provide metadata](../episodes/unsupervised-rdm.Rmd#filling-metadata) for the dataset folder.
+-   Follow the steps from the previous scenario to [provide metadata](../episodes/unsupervised-rdm.Rmd#filling-metadata) for the dataset folder.
 
-Follow the steps from the previous scenario to [upload data](../episodes/unsupervised-rdm.Rmd#upload-data) to the dataset folder.
+-   Follow the steps from the previous scenario to [upload data](../episodes/unsupervised-rdm.Rmd#upload-data) to the dataset folder.
 
 ## Submitting the dataset to the Vault
 
-Now that you have a dataset which includes its metadata and the data itself, you can again initiate the flow that will place the frozen version of the dataset in the Vault. This is going to be a supervised process, simulating a situation where you are collaborating with a data manager or data steward. This means that the dataset will not reach the Vault directly, but have to be accepted by a data manager.
+Now that you have a dataset which includes both data and metadata, you can again initiate the flow that will place a frozen version of the dataset in the Vault. This is going to be a supervised process, simulating a situation where you are collaborating with a data manager or data steward. This means that the dataset will not reach the Vault directly, but have to be accepted by a data manager.
 
 ## Act as a data steward
 
@@ -41,7 +41,7 @@ Please get in touch now with the facilitators. They will give you instructions o
 
 -   exercise your data steward role
 
-In short, the steps that you will have to fulfill as a data steward are:
+In short, the steps that the person with the data steward role will have to fulfill are:
 
 1.  Open the submitted folder from a classmate
 

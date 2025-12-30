@@ -33,13 +33,16 @@ associated with the lessons. They appear in the "Instructor View"
 ## Complimentary information
 
 -   A handy alternative interface to the YODA portal of a YODA instance
-    is the [WebDAV](https://en.wikipedia.org/wiki/WebDAV) interface:
-    [https://surf-data.irods.surfsara.nl](#0)
+    is the [WebDAV](https://en.wikipedia.org/wiki/WebDAV){target="_blank"} interface:
+    <https://surf-data.irods.surfsara.nl>{target="_blank"} (you can also use WebDAV to
+    get access to Yoda through your local file manager, by mapping it as
+    a [network
+    disk](https://www.uu.nl/en/research/yoda/guide-to-yoda/accessing-yoda/connecting-to-the-yoda-network-disk){target="_blank"}).
 
 -   A feature we have not touched in this hands-on session is
     Publishing. That is a next step in the flow after the Vault.
 
 -   Yoda is open source, and you can view their code and advanced
-    documentation in the University of Utrecht's GitHub:
-    <https://github.com/UtrechtUniversity/yoda>
+    documentation in Utrecht University's GitHub:
+    <https://github.com/UtrechtUniversity/yoda>{target="_blank"}
 :::

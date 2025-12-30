@@ -6,7 +6,7 @@ editor_options:
 ---
 
 This is a tutorial built with [The Carpentries
-Workbench](https://carpentries.github.io/sandpaper-docs).
+Workbench](https://carpentries.github.io/sandpaper-docs){target="_blank"}.
 
 ## Welcome
 
