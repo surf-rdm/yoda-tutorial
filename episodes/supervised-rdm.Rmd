@@ -1,7 +1,7 @@
 ---
 title: 'Supervised RDM cycle'
-teaching: 10
-exercises: 2
+teaching: 30
+exercises: 5
 ---
 
 ::: questions
@@ -11,6 +11,10 @@ exercises: 2
 ::: objectives
 -   Operate the cycle of securing data supervised by a data steward in Yoda
 -   Demonstrate how to check metadata and approve submissions to Yoda Vault
+:::
+
+::: instructor
+In order to make it possible to walk through the supervised RDM cycle, make sure you prepare a Yoda Group within a Category where you can add specific participants who will act as data steward to the datamanager group.
 :::
 
 ## Introduction
@@ -65,9 +69,6 @@ After you exchange interactions with the data steward and you get their approval
 
 Congratulations! You have just successfully placed a frozen version of your dataset in the Vault, approved by a data steward.
 
-::: instructor
-In order to make it possible to walk through the unsupervised RDM cycle, make sure you prepare a Yoda Group within a Category where all workshop participants are part of the datamanager group.
-:::
 
 ::: discussion
 ## :spaghetti: :hamburger: :ramen: Food for thought

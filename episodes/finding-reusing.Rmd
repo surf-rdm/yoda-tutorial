@@ -24,9 +24,9 @@ As an instructor, make sure you prepare a folder with a picture of the
 dress. It should be in the Vault area and workshop participants should
 have access to it. Also make sure that the words "Mondrian" or "Yves"
 are present in the metadata, but not in the file or folder names. You
-can use the folder published here (link to follow) to prepare the
-folder. Make sure the dataset is in the Vault and removed from the
-Research area in Yoda.
+can use the folder published on GitHub to prepare the folder in Yoda.
+Make sure the dataset is in the Vault and removed from the Research 
+area in Yoda.
 :::
 
 ## Introduction

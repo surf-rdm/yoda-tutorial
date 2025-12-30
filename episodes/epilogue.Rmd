@@ -1,7 +1,7 @@
 ---
 title: 'Epilogue'
-teaching: 10
-exercises: 2
+teaching: 5
+exercises: 1
 editor_options: 
   markdown: 
     wrap: 72
@@ -24,10 +24,6 @@ Hosting](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hostin
 Thank you for your attention, and we hope to have been of help for you
 today.
 
-::: instructor
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-:::
 
 ::: callout
 ## Complimentary information

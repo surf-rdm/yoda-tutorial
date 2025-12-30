@@ -1,0 +1,55 @@
+{
+    "links": [
+        {
+            "rel": "describedby",
+            "href": "https://yoda.uu.nl/schemas/default-3/metadata.json"
+        }
+    ],
+    "Title": "Mondrian dress",
+    "Description": "Wool dress with a motif inspired by the work of Dutch painter Piet Mondrian. The front and back are symmetrically divided into rectangular sections by black lines. One rectangle on the left shoulder is colored yellow.\nPhotographed by Grey Geezer on 22 April 2017, available at Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Mondrian-2017-04-22-2.jpg",
+    "Discipline": [
+        "Humanities - Art (arts, history of arts, performing arts, music) (6.4)"
+    ],
+    "Language": "en - English",
+    "Collected": {
+        "Start_Date": "2017-04-22",
+        "End_Date": "2017-04-22"
+    },
+    "Covered_Geolocation_Place": [
+        "Rijksmuseum, Amsterdam, Netherlands"
+    ],
+    "Keyword": [
+        "womenswear",
+        "japon",
+        "wool",
+        "silk"
+    ],
+    "Related_Resource": [
+        {
+            "Relation_Type": "IsVersionOf",
+            "Title": "Mondrian Dress - Rijksmuseum",
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "URL",
+                "Identifier": "https://id.rijksmuseum.nl/200540231"
+            }
+        }
+    ],
+    "Retention_Period": 10,
+    "Data_Type": "Dataset",
+    "Data_Classification": "Public",
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Yves",
+                "Family_Name": "Saint Laurent"
+            },
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Yves Saint Laurent SAS"
+                }
+            ]
+        }
+    ],
+    "Data_Access_Restriction": "Open - freely retrievable",
+    "License": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"
+}
