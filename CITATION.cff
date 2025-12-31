@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Yoda hands-on tutorial
+message: >-
+  Please cite this lesson using the information in this file
+  when you refer to it in publications, and/or if you
+  re-use, adapt, or expand on the content in your own
+  training material.
+type: dataset
+authors:
+  - given-names: Eduard
+    family-names: Klapwijk
+    email: eduard.klapwijk@surf.nl
+    affiliation: SURF
+    orcid: 'https://orcid.org/0000-0002-8936-0365'
+repository-code: 'https://github.com/surf-rdm/yoda-tutorial'
+url: 'https://surf-rdm.github.io/yoda-tutorial/'
+abstract: >-
+  This is the lesson repository for the Yoda hands-on
+  tutorial. This tutorial is meant to explain and experience
+  the typical workflows for handling data and metadata in
+  Yoda. It can be taught to researchers and data stewards
+  new to Yoda. Access to a Yoda instance is needed for the
+  hands-on exercises.
+keywords:
+  - research data management
+  - Yoda
+  - metadata
+  - data immutability
+license: CC-BY-4.0
