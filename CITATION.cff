@@ -31,15 +31,10 @@ abstract: >-
   Yoda. It can be taught to researchers and data stewards
   new to Yoda. Access to a Yoda instance is needed for the
   hands-on exercises.'
-preferred-citation:
-  identifiers:
-    - description: "Zenodo DOI of this work."
-      type: doi
-      value: 10.5281/zenodo.18220621
-  type: generic
 keywords:
   - research data management
   - Yoda
   - metadata
   - data immutability
 license: CC-BY-4.0
+doi: 10.5281/zenodo.18220621
