@@ -1,4 +1,5 @@
 # Yoda hands-on tutorial
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18220622.svg)](https://doi.org/10.5281/zenodo.18220622)
 
 This is the lesson repository for the [Yoda](https://www.uu.nl/en/research/yoda/guide-to-yoda) hands-on tutorial. This tutorial is meant to explain and experience the typical workflows for handling data and metadata in Yoda. It can be taught to researchers and data stewards new to Yoda. Access to a Yoda instance is needed for the hands-on exercises.
 
