@@ -1,7 +1,7 @@
 ---
 title: 'Finding and reusing existing data'
-teaching: 30
-exercises: 5
+teaching: 10
+exercises: 30
 editor_options: 
   markdown: 
     wrap: 72
@@ -67,10 +67,10 @@ two tabs; namely: Research and Vault.
 ![Portal detail: Research and Vault
 tabs](fig/research-vault.png){width="270"}
 
-We will now pretend that you are working in a project of your own. You
-will therefore need to create a folder for that project. Since you want
-to work actively with a dataset for this exercise, you will now create
-that folder in the Research area.
+We will pretend that you are working in a project of your own. You will
+therefore need to create a folder for that project. Since you want to
+work actively with a dataset for this exercise, you will now create that
+folder in the Research area.
 
 Here are the steps you need to follow:
 
@@ -98,9 +98,9 @@ following section.
 
 ::: callout
 In Yoda you can search in the Vault for datasets that have been placed
-there by you or others within your same groups. Yoda requires that you
-choose in which parts of a dataset you want to search, and the options
-it offers include:
+there by you or others within the groups of which you are a member. Yoda
+requires that you choose in which parts of a dataset you want to search,
+and the options it offers include:
 
 -   search by file name
 
@@ -133,8 +133,6 @@ or "Mondrian" or "Yves"
 the search box
 
 ::: solution
-## Results
-
 The result is probably going to disappoint you: you will not find
 anything. By default, when you search this way, you exercise a "Search
 by file name" (see that "search by filename" is selected on the
@@ -207,8 +205,8 @@ Remember? You called it *Project* *\<something\>*.
 ## Challenge 4: inspect the metadata
 
 Click on the Metadata button. Can you answer now some of the questions
-below? For example: can you now explain why you were not able to find
-the data set when searching by name or by folder, but you were when you
+below? For example: can you explain why you were not able to find the
+data set when searching by name or by folder, but you were when you
 searched by metadata?
 
 #### Questions:
@@ -223,7 +221,7 @@ searched by metadata?
 
 -   Which location tag has been given to the picture?
 
--   What does the picture show (i.e.: can you describe what the
+-   What does the picture show (i.e., can you describe what the
     photograph has captured)?
 
 Click on the "Close" button of the pop-up that is displaying the

@@ -1,7 +1,7 @@
 ---
 title: 'Connecting to the Yoda portal'
 teaching: 5
-exercises: 1
+exercises: 5
 editor_options: 
   markdown: 
     wrap: 72

@@ -40,8 +40,8 @@ In terms of best RDM practices, metadata is of key importance. What is
 metadata and why is it so important?
 
 A common definition of metadata is that these are "data about data". A
-more precise definition is that metadata are structured data that
-deliberately describe characteristics of other data[^1]. Metadata
+more precise definition is that metadata are **structured data that
+deliberately describe characteristics of other data**[^1]. Metadata
 consists of information pieces that accompany the data itself, in order
 not only to describe the data but also to allow finding it back by means
 of searching through those bits of information. In that way, metadata is
@@ -59,11 +59,11 @@ Researchers can gather data, add metadata, and then share it with
 others. Thus, years after the dataset has been put together, somebody
 else (or the future self of the original researcher) can find the data
 and reuse it, possibly, in novel research projects. According to RDM
-best practices, the metadata belongs to the dataset; it is an intrinsic
-part of it. Metadata is also essential for making data
-[FAIR](https://www.go-fair.org/fair-principles/): good, machine-readable
-metadata helps to make datasets findable, accessible, interoperable and
-reusable.
+best practices, the **metadata belongs to the dataset**; it is an
+intrinsic part of it. Metadata is also essential for **making data
+[FAIR](https://www.go-fair.org/fair-principles/)**: good,
+machine-readable metadata helps to make datasets findable, accessible,
+interoperable and reusable.
 
 To facilitate RDM best practices, **Yoda facilitates the addition of
 machine-readable metadata to datasets** through its web portal. Another
