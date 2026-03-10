@@ -1,7 +1,7 @@
 ---
 title: 'Unsupervised RDM cycle'
-teaching: 30
-exercises: 5
+teaching: 5
+exercises: 40
 editor_options: 
   markdown: 
     wrap: 72

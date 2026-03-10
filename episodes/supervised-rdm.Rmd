@@ -1,7 +1,7 @@
 ---
 title: 'Supervised RDM cycle'
-teaching: 30
-exercises: 5
+teaching: 5
+exercises: 45
 ---
 
 ::: questions
@@ -68,7 +68,6 @@ In short, the steps that the person with the data steward role will have to fulf
 After you exchange interactions with the data steward and you get their approval, you must see your dataset listed including the [Unix epoch] in the `vault-tutorial-sup` folder. Verify that this is the case.
 
 Congratulations! You have just successfully placed a frozen version of your dataset in the Vault, approved by a data steward.
-
 
 ::: discussion
 ## :spaghetti: :hamburger: :ramen: Food for thought

@@ -1,7 +1,6 @@
 ---
 title: 'Epilogue'
 teaching: 5
-exercises: 1
 editor_options: 
   markdown: 
     wrap: 72

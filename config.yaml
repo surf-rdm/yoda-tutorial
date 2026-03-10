@@ -70,6 +70,7 @@ episodes:
 - finding-reusing.Rmd
 - unsupervised-rdm.Rmd
 - supervised-rdm.Rmd
+- archiving-publishing.Rmd
 - epilogue.Rmd
 
 # Information for Learners
@@ -85,6 +86,7 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
+
 
 analytics: |
   <script type="text/javascript">
