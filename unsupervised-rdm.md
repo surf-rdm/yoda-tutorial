@@ -293,7 +293,7 @@ nice predefined form.
     form? Or maybe customise the form per research discipline?
 
 -   Can you find something in the [Yoda
-    documentation](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting)
+    documentation](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting){target="_blank"}
     that points to where this could be arranged? (hint: metadata
     schemas)
 

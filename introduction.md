@@ -61,7 +61,7 @@ else (or the future self of the original researcher) can find the data
 and reuse it, possibly, in novel research projects. According to RDM
 best practices, the **metadata belongs to the dataset**; it is an
 intrinsic part of it. Metadata is also essential for **making data
-[FAIR](https://www.go-fair.org/fair-principles/)**: good,
+[FAIR](https://www.go-fair.org/fair-principles/){target="_blank"}**: good,
 machine-readable metadata helps to make datasets findable, accessible,
 interoperable and reusable.
 
