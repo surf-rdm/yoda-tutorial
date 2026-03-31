@@ -1,6 +1,7 @@
 ---
 title: 'Epilogue'
 teaching: 5
+exercises: 0
 editor_options: 
   markdown: 
     wrap: 72
@@ -18,7 +19,7 @@ facilitators.
 
 For next steps with regards to Yoda, you can visit our documentation
 pages here: [Yoda
-Hosting](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting).
+Hosting](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting){target="_blank"}.
 
 Thank you for your attention, and we hope to have been of help for you
 today.
@@ -33,9 +34,6 @@ today.
     get access to Yoda through your local file manager, by mapping it as
     a [network
     disk](https://www.uu.nl/en/research/yoda/guide-to-yoda/accessing-yoda/connecting-to-the-yoda-network-disk){target="_blank"}).
-
--   A feature we have not touched in this hands-on session is
-    Publishing. That is a next step in the flow after the Vault.
 
 -   Yoda is open source, and you can view their code and advanced
     documentation in Utrecht University's GitHub:
