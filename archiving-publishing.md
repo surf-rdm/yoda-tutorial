@@ -20,18 +20,18 @@ Note that the Yoda instance that you are working on needs the connection to SURF
 
 ## Introduction
 
-Once data is secured in the Vault, there are two useful additional steps that can be taken. The first is that **data in the Vault can be archived in the [SURF Data Archive](https://www.surf.nl/en/services/storage-data-management/data-archive){target="_blank"}**, where you store your data for a longer period of time. It is not a backup system, but intended for storing data you are not actively using. Note that not all Yoda instances are connected to the Data Archive, but in principal they could. For training hosted by SURF, the Data Archive is connected to the SURF Yoda portal and you can archive data on tape.
+Once data is secured in the Vault, there are two useful additional steps that can be taken. The first is that **data in the Vault can be archived in the [SURF Data Archive](https://www.surf.nl/en/services/storage-data-management/data-archive){target="_blank"}**, where you store your data for a longer period of time. It is not a backup system, but intended for storing data you are not actively using. Note that not all Yoda instances are connected to the Data Archive, but in principal they could be. For training hosted by SURF, the Data Archive is connected to the SURF Yoda portal and you can archive data on tape.
 
-The second option is to **publish the dataset on the web**. Your dataset will get a digital object identifier (DOI) assigned, and the metadata of the data package will be published in data catalogues. If the Access Type metadata field is set to 'Open - Freely retrievable', the data will be published as well and be available for download.
+The second option is to **publish the dataset on the web**. Your dataset will get a digital object identifier (DOI) assigned, and the metadata of the data package will be published in data catalogues. If the Access Type metadata field is set to 'Open - Freely retrievable', the data will be published as well and be available for download. In order to be readily available for download from the web, data must be on hot storage. So avoid the archiving of data that is published open access.
 
 ## Archive your data on tape
 
-Now that you have a dataset secured in the Vault, it is quite likely that you do not need to work with the data for some time. In that case, it is a good idea to move the data to the SURF Data Archive, a tape-based storage system that is designed for secure, energy-efficient, long-time storage. Your data is still available to you if needed, and it is only accessible to the members of your Yoda group. But since the data will be stored offline on tapes, you will not be able to access the data directly anymore in the Vault. In case you need to work with the data again, you first need to unarchive it. Depending on the size of the dataset, this might take some time.
+Now that you have a dataset secured in the Vault, it is quite likely that you do not need to work with the data for some time. In that case, it is a good idea to move the data to the SURF Data Archive, a tape-based storage system that is designed for secure, energy-efficient, long-term storage. Your data is still available to you if needed, and it is only accessible to the members of your Yoda group. But since the data will be stored offline on tapes, you will not be able to access the data directly anymore in the Vault. In case you need to work with the data again, you first need to unarchive it. Depending on the size of the dataset, this might take some time.
 
 :::: challenge
 ## Submit your data to the archive
 
-Only data secured in the Vault, can be archived on tape. To archive your dataset in the Vault, you need to do the following:
+Only data secured in the Vault can be archived on tape. To archive your dataset in the Vault, you need to do the following:
 
 -   Navigate to the `vault-` folder and click on your Vault submission. There you can find the Actions button again, and you click on Archive on tape:
 

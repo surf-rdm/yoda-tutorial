@@ -22,10 +22,10 @@ Let us enter the Yoda web portal now.
 1.  Open a browser window. Navigate to the portal URL:
 
     -   For training hosted by SURF, the portal address is
-        [https://surf-yoda.irods.surfsara.nl](https://surf-yoda.irods.surfsara.nl){target="_blank"}.
+        [https://scuba-yoda.irods.surfsara.nl](https://scuba-yoda.irods.surfsara.nl){target="_blank"}.
     -   For the addresses of institute-specific portals, see [this
         overview of
-        URL's](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting#YodaHosting-YodaHosting){target="_blank"}.
+        URLs](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/19824782/Yoda+Hosting#YodaHosting-YodaHosting){target="_blank"}.
     -   Before you can login, course instructors should give you access
         to the portal.
 
@@ -34,7 +34,7 @@ Let us enter the Yoda web portal now.
     `Sign in` and entering your email address. In your browser it should
     look something like this:
 
-    ![Example of how the Yoda portal looks like once logged
+    ![Example of how the Yoda portal looks once logged
     in](fig/yoda-portal.png){width="584"}
 
 3.  Click on the Research tab. Verify that you see two folders:
