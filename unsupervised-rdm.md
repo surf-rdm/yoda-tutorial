@@ -171,7 +171,8 @@ submitting, but also accepting the dataset in the Vault.
     that you have prepared for this exercise.
 
 2.  Once you are in the dataset folder, click on the Actions button, and
-    select the Submit option.
+    select the Submit option. You can choose to keep a copy in the research 
+    space or have it removed automatically after a successful move to the Vault.
 
 3.  After submitting, you will see that a green label appears next to
     the folder's name title, indicating that the folder is submitted to
@@ -203,8 +204,11 @@ your dataset in the Vault.
 ## Deleting the working copy of the dataset
 
 To simulate a real situation, you can now rely on the Vault to keep your
-dataset for you, so you can remove it from your working area. If you try
-to remove the dataset folder directly, Yoda may complain indicating that
+dataset for you, so you can remove it from your working area. You may have been
+confident enough to choose a deletion of the copy in the research space. In
+case you chose to keep a copy, you can also delete it manually now.
+
+If you try to remove the dataset folder directly, Yoda may complain indicating that
 it is not empty. In that case, you will have to delete the files inside
 it first.
 
