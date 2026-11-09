@@ -20,7 +20,7 @@ Note that the Yoda instance that you are working on needs the connection to SURF
 
 ## Introduction
 
-Once data is secured in the Vault, there are two useful additional steps that can be taken. The first is that **data in the Vault can be archived in the [SURF Data Archive](https://www.surf.nl/en/services/storage-data-management/data-archive){target="_blank"}**, where you store your data for a longer period of time. It is not a backup system, but intended for storing data you are not actively using. Note that not all Yoda instances are connected to the Data Archive, but in principal they could be. For training hosted by SURF, the Data Archive is connected to the SURF Yoda portal and you can archive data on tape.
+Once data is secured in the Vault, there are two useful additional steps that can be taken. The first is that **data in the Vault can be archived in the [SURF Data Archive](https://www.surf.nl/en/services/storage-data-management/data-archive){target="_blank"}**, where you store your data for a longer period of time. It is not a backup system, but intended for storing data you are not actively using. Note that not all Yoda instances are connected to the Data Archive, but in principal they could be. For training hosted by SURF, the Data Archive is connected to the SURF Yoda portal and you can archive data on tape. Note that the Data Archive is optimized for files between 1GB and 200 GB, thus only data packages larger than 1GB can be archived on tape.
 
 The second option is to **publish the dataset on the web**. Your dataset will get a digital object identifier (DOI) assigned, and the metadata of the data package will be published in data catalogues. If the Access Type metadata field is set to 'Open - Freely retrievable', the data will be published as well and be available for download. In order to be readily available for download from the web, data must be on hot storage. So avoid the archiving of data that is published open access.
 
@@ -33,7 +33,7 @@ Now that you have a dataset secured in the Vault, it is quite likely that you do
 
 Only data secured in the Vault can be archived on tape. To archive your dataset in the Vault, you need to do the following:
 
--   Navigate to the `vault-` folder and click on your Vault submission. There you can find the Actions button again, and you click on Archive on tape:
+-   Navigate to the `vault-` folder and click on your Vault submission. There you can find the Actions button again, and you click on Archive on tape (note that for packages smaller than 1GB the archiving option is not available and greyed out):
 
 ![Click the Action button in the Vault area to archive the dataset on tape](fig/archive-tape.png){width="300"}
 
