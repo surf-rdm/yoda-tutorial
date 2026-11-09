@@ -204,9 +204,10 @@ your dataset in the Vault.
 ## Deleting the working copy of the dataset
 
 To simulate a real situation, you can now rely on the Vault to keep your
-dataset for you, so you can remove it from your working area. You may have been
-confident enough to choose a deletion of the copy in the research space. In
-case you chose to keep a copy, you can also delete it manually now.
+dataset for you, so you can remove it from your working area (if it is still 
+there). When submitting to the Vault, you may have been confident enough to 
+choose a deletion of the copy in the research space. In
+case you chose to keep a copy, you can still delete it manually now.
 
 If you try to remove the dataset folder directly, Yoda may complain indicating that
 it is not empty. In that case, you will have to delete the files inside
